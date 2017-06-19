@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c581247113b7484298c1a42dc75989f85c54963a">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\instant-run_fed9736e638e05fd007e946c2b118b85d1db6e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ce9b75ebf39b2ec5a4df1014dc0d3ea82beafaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanghaihua\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.8\c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e\rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\rebound-0.3.8_15fe0113bc8979a2b726ffaadf4f0ecddb66abf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7702eff5d6012bec135fd3f2aeac32e8e67c03da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.12.0_93e1d8629378c1d916064892ea8f123b1cb27115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_7c41887768308e7538570d751d1eec86a7835afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_caf25a4bdaa7f75fea99454462522b4b26e3b0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\cn.yipianfengye.android\ad-library\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd04b8821b8a6f171529a6597b08f43bc216abaf">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\cn.yipianfengye.android-ad-library-1.0_ef5e849982a6890143ef90a62ea8fc23d8f959ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_e3fd72fb0f32c5b53daf770ba9d5752aa785eabd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.12.0_58bce27433ee73c60460ea89647af1399d73e99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanghaihua\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_df1b1adffb16a4b36bb0a6d139563cf02ee37950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.12.0_a760dff4477406e66c8e7e6437d2335f0c62dcc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.flyco.pageindicator\FlycoPageIndicator_Lib\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0a366d1aafcb2b2753b36cd997db81aaf86c7acf">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.flyco.pageindicator-FlycoPageIndicator_Lib-1.0.0_cc6d6c645e26ab8678e724875e770e1df8b7364f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.12.0_8d2991ebc1c35195e9f09d70b7468c515bbfa71f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.12.0_7bf57ad6a23ae2cdeedd521f9f43a00e18c2270f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanghaihua\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ef88aba52aa889c67b01f84f0d8e743d4e076c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_521e8d0c94c1d84cf3b1a68fe5d5a4abef08f483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\exploded-aar\com.malinskiy\materialicons\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ef367919068cab239d921b1c747258439b7a8fe4">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\com.malinskiy-materialicons-1.0.2_7bc6f6f531fc227bd5f53f49f73ef0ebcd082a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demoFilse\android-adDialog-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53b36a93446e92012d367358af5f625a321d4b7b">
+        <dex dex="E:\demoFilse\android-adDialog-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e8c1b669ae62e86486f2938de32b7738120cdb42.jar" />
+    </item>
+
+</items>
